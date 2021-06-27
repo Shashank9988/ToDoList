@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
+ "homepage": "https://shashank9988.github.io/ToDoList",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
